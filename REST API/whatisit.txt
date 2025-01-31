@@ -1,0 +1,11 @@
+The rest api is 
+RETS means REPRESTENTATIONAL STATE TRANSFER
+
+- communication (client <-> server)
+
+
+restful a server that uses rest apis to communication
+
+1.simple and standard for rest api 
+2.scalable and stateless
+3.High Performace (especially with caching)
